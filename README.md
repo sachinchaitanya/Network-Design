@@ -1,4 +1,4 @@
-Title: Scalable Network Infrastructure for a Growing SME
+**Scalable Network Infrastructure for a Growing SME**
 
 This network design aims to build a flexible and resilient infrastructure to support the operations of a small-medium enterprise (SME) across three key departments - Engineering, Sales, and Management.
 
